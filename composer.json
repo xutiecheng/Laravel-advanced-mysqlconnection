@@ -18,7 +18,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "Lamc\\Event\\": "src/",
+            "Lamc\\Events\\": "src/",
             "Lamc\\Driver\\": "src/"
         }
     },
